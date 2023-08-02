@@ -21,7 +21,7 @@ export default async function LocaleLayout({children, params: {locale}}
   } catch (error) {
     notFound();
   }
- 
+//  npm install next-intl@3.0.0-beta.9
   return (
     <html lang={locale}>
       <body>
