@@ -1,5 +1,8 @@
 {
     "Index": {
-      "title": "The main page will be here!"
+      "title": "The main page will be here!",
+      "placeholder":"Enter text",
+      "button":"Button",
+      "error":"Text is required"
     }
   }
